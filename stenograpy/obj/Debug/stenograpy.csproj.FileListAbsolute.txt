@@ -1,0 +1,167 @@
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\AppData\Local\Temporary Projects\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 03.05.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 30.04.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy 07.05.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\stenograpy 15.05.2019\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Downloads\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.05.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\Yılmaz\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.ResolveComReference.cache
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.bilgi.resources
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.ResolveComReference.cache
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.bilgi.resources
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csproj.CoreCompileInputs.cache
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\JuFi\Desktop\PROJE\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.pdb
+C:\Users\JuFi\Desktop\21.06.2019 Steganografi\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\bin\Debug\stenograpy.exe.config
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\bin\Debug\stenograpy.exe
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\bin\Debug\stenograpy.pdb
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.bilgi.resources
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.Form1.resources
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.Properties.Resources.resources
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.exe
+C:\Users\PC\Desktop\Steganografi\PROJE\last\stenograpy\obj\Debug\stenograpy.pdb
